@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to flutter-news-app 👋</h1>
 
-> A simple news app built with Flutter and using Wordpress REST API
+> A simple news App built with Flutter and using Wordpress REST API
 
 <div style="text-align: center">
     <table>
